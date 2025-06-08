@@ -10,6 +10,7 @@ Objetivo: Revelar imagens ocultas e contar histórias
 # 2. Descrição Detalhada do Projeto
 
 O que são nonogramas?
+
 Nonogramas são desafios de quebra-cabeça lógicos, que consistem em preencher células de uma grade, criando uma imagem oculta, usando números como pistas. A resolução de nonogramas pode ser uma forma divertida e desafiadora de desenvolver habilidades de raciocínio lógico, atenção aos detalhes e paciência. 
 
 Curiosidade: Os nonogramas foram criados por Non Ishida, uma editora gráfica japonesa, em 1988. 
