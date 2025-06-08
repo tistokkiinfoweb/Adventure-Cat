@@ -1,9 +1,9 @@
 # Documentação: Jogo Nonogram Cats
 
 # 1. Visão Geral
-Tecnologia Utilizada: Python + Pygame
+Tecnologia Utilizada: Python + Pygame + Numpy
 
-Descrição: Criação inspirada no jogo Meow Tower, utilizando a biblioteca Pygame para renderização gráfica e lógica de jogo.
+Descrição: Criação inspirada no jogo Meow Tower, utilizando a biblioteca Pygame e Numpy para renderização gráfica e lógica de jogo.
 
 Objetivo: Revelar imagens ocultas e contar histórias.
 
